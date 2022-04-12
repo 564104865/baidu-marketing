@@ -1,12 +1,12 @@
 # 百度营销 MarketingAPI Golang SDK
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/bububa/baidu-marketing.svg)](https://pkg.go.dev/github.com/bububa/baidu-marketing)
-[![Go](https://github.com/bububa/baidu-marketing/actions/workflows/go.yml/badge.svg)](https://github.com/bububa/baidu-marketing/actions/workflows/go.yml)
-[![goreleaser](https://github.com/bububa/baidu-marketing/actions/workflows/goreleaser.yml/badge.svg)](https://github.com/bububa/baidu-marketing/actions/workflows/goreleaser.yml)
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/bububa/baidu-marketing.svg)](https://github.com/bububa/baidu-marketing)
-[![GoReportCard](https://goreportcard.com/badge/github.com/bububa/baidu-marketing)](https://goreportcard.com/report/github.com/bububa/baidu-marketing)
-[![GitHub license](https://img.shields.io/github/license/bububa/baidu-marketing.svg)](https://github.com/bububa/baidu-marketing/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/bububa/baidu-marketing.svg)](https://GitHub.com/bububa/baidu-marketing/releases/)
+[![Go Reference](https://pkg.go.dev/badge/github.com/564104865/baidu-marketing.svg)](https://pkg.go.dev/github.com/564104865/baidu-marketing)
+[![Go](https://github.com/564104865/baidu-marketing/actions/workflows/go.yml/badge.svg)](https://github.com/564104865/baidu-marketing/actions/workflows/go.yml)
+[![goreleaser](https://github.com/564104865/baidu-marketing/actions/workflows/goreleaser.yml/badge.svg)](https://github.com/564104865/baidu-marketing/actions/workflows/goreleaser.yml)
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/564104865/baidu-marketing.svg)](https://github.com/564104865/baidu-marketing)
+[![GoReportCard](https://goreportcard.com/badge/github.com/564104865/baidu-marketing)](https://goreportcard.com/report/github.com/564104865/baidu-marketing)
+[![GitHub license](https://img.shields.io/github/license/564104865/baidu-marketing.svg)](https://github.com/564104865/baidu-marketing/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/564104865/baidu-marketing.svg)](https://GitHub.com/564104865/baidu-marketing/releases/)
 
 - 账户管理
   - 财务管理 (api/account/balance)
