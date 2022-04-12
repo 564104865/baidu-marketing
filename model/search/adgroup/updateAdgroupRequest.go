@@ -3,7 +3,7 @@ package adgroup
 import (
 	"fmt"
 
-	"github.com/bububa/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model"
 )
 
 // UpdateAdgroupRequest 更新推广单元 API Request

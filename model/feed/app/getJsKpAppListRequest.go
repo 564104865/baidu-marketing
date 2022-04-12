@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 
-	"github.com/bububa/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model"
 )
 
 // GetJsKpAppListRequest 查询APP信息 API Request

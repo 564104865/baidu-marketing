@@ -1,6 +1,6 @@
 package campaign
 
-import "github.com/bububa/baidu-marketing/model"
+import "github.com/564104865/baidu-marketing/model"
 
 // Campaign 推广计划
 // Status 可选值

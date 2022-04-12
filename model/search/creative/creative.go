@@ -1,6 +1,6 @@
 package creative
 
-import "github.com/bububa/baidu-marketing/model"
+import "github.com/564104865/baidu-marketing/model"
 
 /* Creative 推广创意
 // Pause 可选值

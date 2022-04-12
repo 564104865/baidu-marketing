@@ -1,9 +1,9 @@
 package report
 
 import (
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/model/feed/report"
+	"github.com/564104865/baidu-marketing/core"
+	"github.com/564104865/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model/feed/report"
 )
 
 // GetReportFeedFileUrl 获取异步报告文件URL

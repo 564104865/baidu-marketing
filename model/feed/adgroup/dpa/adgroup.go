@@ -1,6 +1,6 @@
 package dpa
 
-import "github.com/bububa/baidu-marketing/model/feed/adgroup"
+import "github.com/564104865/baidu-marketing/model/feed/adgroup"
 
 // Adgroup 推广单元
 type Adgroup struct {

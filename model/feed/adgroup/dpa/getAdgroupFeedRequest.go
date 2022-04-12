@@ -3,7 +3,7 @@ package dpa
 import (
 	"fmt"
 
-	"github.com/bububa/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model"
 )
 
 // GetAdgroupFeedRequest 查询推广单元 API Request

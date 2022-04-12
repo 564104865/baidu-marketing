@@ -1,9 +1,9 @@
 package account
 
 import (
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/model/account"
+	"github.com/564104865/baidu-marketing/core"
+	"github.com/564104865/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model/account"
 )
 
 // GetUserListByMccid 账户管家管理

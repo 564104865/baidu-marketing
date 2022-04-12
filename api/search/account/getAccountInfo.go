@@ -1,9 +1,9 @@
 package account
 
 import (
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/model/search/account"
+	"github.com/564104865/baidu-marketing/core"
+	"github.com/564104865/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model/search/account"
 )
 
 // GetAccountInfo 查询账户

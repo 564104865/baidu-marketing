@@ -1,9 +1,9 @@
 package native
 
 import (
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model"
-	"github.com/bububa/baidu-marketing/model/feed/adgroup/native"
+	"github.com/564104865/baidu-marketing/core"
+	"github.com/564104865/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model/feed/adgroup/native"
 )
 
 // GetAdgroup 查询原生推广单元

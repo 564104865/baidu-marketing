@@ -3,7 +3,7 @@ package balance
 import (
 	"fmt"
 
-	"github.com/bububa/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model"
 )
 
 // GetAccountTransferHistoryRequest 查询转账记录 API Request

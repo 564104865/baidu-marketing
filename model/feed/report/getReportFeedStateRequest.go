@@ -3,7 +3,7 @@ package report
 import (
 	"fmt"
 
-	"github.com/bububa/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model"
 )
 
 // GetReportFeedStateRequest 获取异步报告状态 API Request

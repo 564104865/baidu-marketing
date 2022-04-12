@@ -3,7 +3,7 @@ package account
 import (
 	"fmt"
 
-	"github.com/bububa/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model"
 )
 
 // UpdateAccountInfoRequest 更新账户 API Request

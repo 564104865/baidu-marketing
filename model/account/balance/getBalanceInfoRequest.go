@@ -3,7 +3,7 @@ package balance
 import (
 	"fmt"
 
-	"github.com/bububa/baidu-marketing/model"
+	"github.com/564104865/baidu-marketing/model"
 )
 
 // GetBalanceInfoRequest 查询账户余额成分 API Request

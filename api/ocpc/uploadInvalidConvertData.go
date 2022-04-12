@@ -3,8 +3,8 @@ package ocpc
 import (
 	"encoding/json"
 
-	"github.com/bububa/baidu-marketing/core"
-	"github.com/bububa/baidu-marketing/model/ocpc"
+	"github.com/564104865/baidu-marketing/core"
+	"github.com/564104865/baidu-marketing/model/ocpc"
 )
 
 // UploadInvalidConvertData 广告主回传无效转化数据接口
