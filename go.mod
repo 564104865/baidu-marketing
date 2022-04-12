@@ -1,3 +1,3 @@
-module github.com/bububa/baidu-marketing
+module github.com/564104865/baidu-marketing
 
-go 1.16
+go 1.17
